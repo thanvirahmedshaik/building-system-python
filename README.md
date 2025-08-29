@@ -16,3 +16,5 @@ A simple, menu-driven billing system written in Python.
 3. Run:
    ```bash
    python billing_system.py
+## Sample Output
+![Billing System Output](output.png)
